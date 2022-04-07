@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"."
+	"github.com/ninchat/maxreader"
 )
 
 func Test(t *testing.T) {
